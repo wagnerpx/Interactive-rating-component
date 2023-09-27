@@ -42,8 +42,8 @@ Esse projeto foi bem desafiador, pois foi a primeira vez que utilizei o JavaScri
 
 ### Links
 
-- Solution URL: [Solution URL]()
-- Live Site URL: [Live site URL]()
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/interactive-rating-component-frontend-mentor-OYQ51qXabs)
+- Live Site URL: [Live site URL](https://wagnerpx.github.io/Interactive-rating-component/)
 
 ## Autor
 
